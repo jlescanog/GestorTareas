@@ -26,7 +26,7 @@ Esta aplicación móvil permite a los usuarios gestionar sus tareas diarias, ofr
 ### 1. Clonar el repositorio
 
 ```bash
-git clone [https://github.com/tu-usuario/gestor-tareas.git](https://github.com/jlescanog/GestorTareas.git)
+git clone https://github.com/tu-usuario/gestor-tareas.git
 cd GestorTareas
 ```
 
